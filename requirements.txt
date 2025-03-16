@@ -1,0 +1,11 @@
+scikit-image
+resize
+ydata-profiling
+numpy
+pandas
+sweetviz
+shap
+h2o
+mlflow
+scipy
+tensorflow
